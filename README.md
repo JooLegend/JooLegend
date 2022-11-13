@@ -15,7 +15,7 @@
   
 #### 💚 Tistory : *new!*
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={JooLegend}&theme={vue})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=JooLegend&theme=vue)](https://github.com/loosie/github-readme-tistory-card)
 
 
 <!---
