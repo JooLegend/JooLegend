@@ -14,7 +14,7 @@
 ![1786b119778bb1ca718047c3a20e7285](https://t1.daumcdn.net/cafeattach/1IHuH/e9bfaf8498627559bc10d29fdb3edd658d0d4b0b)
   
 #### 💚 Tistory : *new!*
-<div align = center>
+
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=JooLegend)](https://omz-freestyle.tistory.com/)
 
 <!---
