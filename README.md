@@ -1,5 +1,6 @@
 
 ### 3000🌒🌓🌔
+<hr />
 
 #### 💚 Tistory : 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=JooLegend&theme=vue)](https://omz-freestyle.tistory.com/)
