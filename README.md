@@ -15,7 +15,8 @@
   
 #### 💚 Tistory : *new!*
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=JooLegend)](https://omz-freestyle.tistory.com/)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={JooLegend}&theme={vue})](https://github.com/loosie/github-readme-tistory-card)
+
 
 <!---
 JooLegend/JooLegend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
