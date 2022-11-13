@@ -12,7 +12,7 @@
   
 #### 💚 Tistory : *new!*
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={JooLegend})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=JooLegend)](https://omz-freestyle.tistory.com/)
 
 
 
