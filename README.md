@@ -8,7 +8,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JooLegend&hide=javascript,html,SCSS,CSS,PHP&layout=compact)](https://github.com/JooLegend/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooLegend&show_icons=true&theme=outrun)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooLegend&show_icons=true&theme=github_dark)
   
 
 
