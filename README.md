@@ -1,9 +1,9 @@
-<div align = center>
+
 ### 3000🌒🌓🌔
-  #### 💚 Tistory : *new!*
+#### 💚 Tistory : *new!*
 
-  [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=JooLegend&theme=vue)](https://omz-freestyle.tistory.com/)
-
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=JooLegend&theme=vue)](https://omz-freestyle.tistory.com/)
+<div align = center>
 ## 📚Tech Stack📚
 
 
