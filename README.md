@@ -19,10 +19,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooLegend&show_icons=true&theme=github_dark)
   
-![](https://github.com/JooLegend/JooLegend/blob/output/github-user-contribution.svg)
-![](https://github.com/CODe1995/JooLegend/blob/output/github-user-contribution.svg)
+![](https://github.com/CODe1995/CODe1995/blob/output/github-user-contribution.svg)
 
-  
 <hr />
   
 
