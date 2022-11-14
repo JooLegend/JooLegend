@@ -4,7 +4,7 @@
 
 #### 💚 Tistory : 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=JooLegend&theme=vue)](https://omz-freestyle.tistory.com/)
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=2)
 
 <div align = center>
   
@@ -18,7 +18,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooLegend&show_icons=true&theme=github_dark)
   
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=2)
+
   
 <hr />
   
