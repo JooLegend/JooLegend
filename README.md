@@ -18,13 +18,14 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JooLegend&show_icons=true&theme=github_dark)
   
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=2)
+  
 <hr />
   
 
 ![1786b119778bb1ca718047c3a20e7285](https://mblogthumb-phinf.pstatic.net/MjAxOTA1MDNfMTk4/MDAxNTU2ODc1MDY4MTkw.ASBB2ghIrJN9qPKX1hoIUSomjMnKNiLfuXQ4_Glb52kg.YEP-2ekOiJEHp4Qw3svcikRjBOKGAUbGhIRNhCZBsp4g.GIF.enterborn/endgame.gif?type=w800)
  
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=2)
   
 <!---
 JooLegend/JooLegend is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
