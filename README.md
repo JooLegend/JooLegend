@@ -4,10 +4,10 @@
 
 #### 💚 Tistory : 
 [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=JooLegend&theme=vue)](https://omz-freestyle.tistory.com/)
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=2)
+
 
 <div align = center>
-  
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=2)  
   
 ## 📚Tech Stack📚
 
