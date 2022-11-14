@@ -10,6 +10,8 @@
   
   
 ## 📚Tech Stack📚
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I%20am%20better%20man%20than%20who%20I%20was%20yesterday&fontSize=20&animation=fadeIn&customColorList=2)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&customColorList=2)  
   
@@ -26,8 +28,6 @@
 
 ![1786b119778bb1ca718047c3a20e7285](https://mblogthumb-phinf.pstatic.net/MjAxOTA1MDNfMTk4/MDAxNTU2ODc1MDY4MTkw.ASBB2ghIrJN9qPKX1hoIUSomjMnKNiLfuXQ4_Glb52kg.YEP-2ekOiJEHp4Qw3svcikRjBOKGAUbGhIRNhCZBsp4g.GIF.enterborn/endgame.gif?type=w800)
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I%20am%20better%20man%20than%20who%20I%20was%20yesterday&fontSize=20&animation=fadeIn&customColorList=2)
- 
 
   
 <!---
